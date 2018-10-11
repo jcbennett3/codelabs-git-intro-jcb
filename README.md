@@ -6,10 +6,19 @@
   2.  Open your local README again.  This time, add your Github username to the bottom of the file.
   3.  Save your changes.
 # Exercise 3 - PUSHING TO THE REMOTE REPO
-  1.  **GIT ADD -A** to stage your changes.
+  1.  **GIT ADD -A** to stage your changes. #prepping it to commit
   2.  **GIT COMMIT -M [brief message about your commit]** to commit those changes to your branch.
   3.  **GIT PUSH** to push a copy of your branch and its changes to the project's repository.  
       ***Unless you've already pushed from a branch, you'll receive an error, explaining that you have no 'upstream branch.'***
       ***Copy the line, &quot;git push --set-upstream origin [your-branch-name]&quot;, then paste the command into your console and, if necessary, hit enter to set your upstream branch and push to the repo.***
-jcbennett3
-oh my, what a big conflict.
+manderson
+Jeff Gipson
+ RANDOM TEXT jeffgipson
+This is a conflict!
+My, what a huge conflict.
+master
+
+git username: marydanderson
+
+
+
