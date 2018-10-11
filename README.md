@@ -11,3 +11,4 @@
   3.  **GIT PUSH** to push a copy of your branch and its changes to the project's repository.  
       ***Unless you've already pushed from a branch, you'll receive an error, explaining that you have no 'upstream branch.'***
       ***Copy the line, &quot;git push --set-upstream origin [your-branch-name]&quot;, then paste the command into your console and, if necessary, hit enter to set your upstream branch and push to the repo.***
+pauldbrewer
